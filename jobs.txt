@@ -1,3 +1,5 @@
+-This file is used to filter out the info that has to be web scraped, manually. And to refer the keys.
+
 title   ::::   Full Stack Web Developer - Training bootcamp
 jobId   ::::   200622004721
 companyName   ::::   FINTECH INFOSYSTEMS PRIVATE LIMITED
